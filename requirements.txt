@@ -1,0 +1,6 @@
+django
+django-debug-toolbar
+opentelemetry-sdk
+opentelemetry-instrumentation-django
+azure-monitor-opentelemetry-exporter
+requests
